@@ -1,1 +1,12 @@
-dependencies:
+bbc_feeds==2.1
+google_api_python_client==2.81.0
+google_auth_oauthlib==0.5.2
+gTTS==2.2.4
+matplotlib==3.5.1
+mediapipe==0.8.9.1
+mutagen==1.45.1
+numpy==1.22.3
+opencv_python==4.5.5.64
+Pillow==9.4.0
+requests==2.27.1
+tkcalendar==1.6.1
