@@ -31,6 +31,3 @@ c.execute("""CREATE TABLE files (
 
 con.commit()
 con.close()
-
-
-
