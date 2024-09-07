@@ -1,0 +1,13 @@
+CODE
+= limit file database to one hour range in order to ensure minimum hourly update
+
+WRITE-UP
+= STAKEHOLDER INPUT AND ANALYSIS OF RESPONSE
+	- design and acceptance
+= 
+
+
+in the future:
+- plan out my time better, make use of project management tools to achieve this
+- prepare more raspberry pi knowledge in advance to be able to fulfil initial criteria
+- research more into existing solutions to build more cohesieve/ adaptable solution
