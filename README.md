@@ -2,17 +2,18 @@
  St Olaves Y13 NEA - Personal Desk Assistant - Tamanna Kar 6170
 
 Project Includes:
-- coursework instruction pdf
-- RData dataset
-- coursework R script
-- coursework written report (word & pdf)
-- submission zip file
-
-Project Covers:
-- use of parametric models in context
-- estimate said model parameters via method of moments
-- estimating standard errors of estimates
-- comparing parametric models
-- point estimation and confidence interval
-- inferring conclusions in context
-- comparing point estimations and confidence intervals
+- executable file main_app.py
+- other resources (guide & reqs)
+- google cal. & database module
+ - database files pulling via google calendar api
+ - json credential files to log in to google
+ - encrypted pickle file (api access token)
+ - database to reference audio output files (deleted after use)
+- gesture recognition module
+ - image training & testing files
+ - stored matrix files as numpy array binary files
+- experimentation work to test, learn & practice concepts
+- documentation section
+ - stakeholder correspondence
+ - various process mapping files
+ - final submission in word & pdf
