@@ -1,6 +1,8 @@
 # A Level Computing Project
  St Olaves Y13 NEA - Personal Desk Assistant - Tamanna Kar 6170
 
+ Please view documentation/Computing A Level Project (pdf) for final report & documentation of the overall project.
+
 Project Includes:
 - executable file main_app.py
 - other resources (guide & reqs)
